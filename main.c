@@ -1,4 +1,5 @@
-//NB: Most of this code is not written by me. It was taken from Kaan Alpar's [https://www.youtube.com/@KaanAlparGameDev] "Coding an Image to ASCII Converter in C" video
+// NB: Most of this code was not written by me. It was taken from Kaan Alpar's
+// YouTube video: "Coding an Image to ASCII Converter in C" [https://www.youtube.com/@KaanAlparGameDev]
 
 #include <stdio.h>
 #include <stdlib.h>
