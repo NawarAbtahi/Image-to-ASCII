@@ -1,8 +1,9 @@
-![ww](https://github.com/user-attachments/assets/af466dcd-44aa-4386-8846-d564157ed277)<h1 align='center'>Image to ASCII</h1>
+<h1 align='center'>Image to ASCII</h1>
 
 A program to make a given image to an ASCII image in c
 
-![Uploading ww.png…]()
+
+![ww](https://github.com/user-attachments/assets/af466dcd-44aa-4386-8846-d564157ed277)
 
 
                                          1........;
