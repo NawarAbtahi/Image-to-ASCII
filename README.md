@@ -5,6 +5,7 @@ A program to make a given image to an ASCII image in c
 
 ![ww](https://github.com/user-attachments/assets/af466dcd-44aa-4386-8846-d564157ed277)
 
+```
 
                                          1........;
                                       }.....       .`,
@@ -138,3 +139,5 @@ A program to make a given image to an ASCII image in c
  ... .  ..   ..... ....   ..      ...`  ''''`. .....  . ....    . . ....... .      . .  .     .'''"I
  .....  ..   ..... . ..    .        .. `.`` .. .. ...  .  . .. . . .  .  . ....    .          `'^^,!
  .....       ...... ... ,..          . ^.```....  .  .. . .     .  . .   . .                 .``^',l
+
+```
